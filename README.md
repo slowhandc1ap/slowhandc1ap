@@ -8,6 +8,8 @@ studying Data Science, and I am also learning about Data Analysis and Data Engin
 
 * 🌍  I'm based in Prachinburi Thailand
 * ✉️  You can contact me at [tanakornit@gmail.com](mailto:tanakornit@gmail.com)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 ### Skills
 
