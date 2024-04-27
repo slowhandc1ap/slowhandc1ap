@@ -28,7 +28,7 @@ studying Data Science, and I am also learning about Data Analysis and Data Engin
 ![DataRockie School - Mini Data Science Bootcamp 2024 - 2024-04-26 (1)](https://github.com/slowhandc1ap/slowhandc1ap/assets/120072774/e1d0bb42-4c8c-4844-8c93-fa7685583e81)
 
 
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/slowhandc1ap)](https://leetcode.com/slowhandc1ap)
 
 <b>My GitHub Stats</b>
 
