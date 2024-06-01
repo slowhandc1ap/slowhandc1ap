@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'am Student at king mongkut's university of technology
 -------------------------------------------------------
 
-studying Data Science, and I am also learning about Data Analysis and Data Engineering.
 
 * 🌍  I'm based in Prachinburi Thailand
 * ✉️  You can contact me at [tanakornit@gmail.com](mailto:tanakornit@gmail.com)
@@ -32,9 +31,7 @@ studying Data Science, and I am also learning about Data Analysis and Data Engin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/slowhandc1ap"><img src="https://github-readme-stats.vercel.app/api?username=slowhandc1ap&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="slowhandc1ap's GitHub stats" /></a>
-
-<a href="https://github.com/slowhandc1ap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowhandc1ap&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowhandc1ap)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Top Repositories</b>
 
