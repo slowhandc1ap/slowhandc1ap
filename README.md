@@ -32,7 +32,7 @@ I'am Student at king mongkut's university of technology
 <b>My GitHub Stats</b>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowhandc1ap)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slowhandc1ap)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowhandc1ap&hide_progress=true)
 
 <b>Top Repositories</b>
 
