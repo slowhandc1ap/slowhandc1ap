@@ -1,16 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanakorn Taweethawon
-============================================================================================================================================
-
-I'am Student at king mongkut's university of technology
--------------------------------------------------------
-
-
-* 🌍  I'm based in Prachinburi Thailand
-* ✉️  You can contact me at [tanakornit@gmail.com](mailto:tanakornit@gmail.com)
-
-
-
-
 
 ### Socials
 
@@ -24,7 +11,6 @@ I'am Student at king mongkut's university of technology
 ![](https://github-readme-streak-stats.herokuapp.com/?user=slowhandc1ap&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slowhandc1ap&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=slowhandc1ap&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
