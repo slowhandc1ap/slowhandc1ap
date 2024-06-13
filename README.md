@@ -14,5 +14,5 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://wakatime.com/share/@f65f2438-3982-4ab5-b904-3fecf49fda56/0151c221-d47f-424b-9cf3-1e3da29bc57f.svg" height="400px"></img>
+<img src="https://wakatime.com/share/@f65f2438-3982-4ab5-b904-3fecf49fda56/0151c221-d47f-424b-9cf3-1e3da29bc57f.svg" height="400px" width="600px"></img>
 <img  src="https://wakatime.com/share/@f65f2438-3982-4ab5-b904-3fecf49fda56/6e5eb5ef-e035-43ae-97a2-f55cbe9a1dbf.svg"></img>
