@@ -9,8 +9,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=slowhandc1ap&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=slowhandc1ap&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=slowhandc1ap&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://wakatime.com/share/@f65f2438-3982-4ab5-b904-3fecf49fda56/0151c221-d47f-424b-9cf3-1e3da29bc57f.svg" height="400px"></img>
+<img  src="https://wakatime.com/share/@f65f2438-3982-4ab5-b904-3fecf49fda56/6e5eb5ef-e035-43ae-97a2-f55cbe9a1dbf.svg"></img>
