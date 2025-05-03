@@ -38,13 +38,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- ซ้าย: Stats + Streak -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slowhandc1ap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  </div>
 
   <!-- ขวา: Pie Chart -->
   <div>
@@ -56,13 +50,7 @@
 
 ---
 
-### 🎯 Goals & Now
 
-- ⚙️ Improve system design using .NET Core
-- 🔐 Dive deeper into ERP Solutions
-- 💡 Expert in .NET and React
-
----
 
 
 </div>
