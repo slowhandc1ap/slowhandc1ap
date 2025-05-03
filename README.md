@@ -43,7 +43,7 @@
   <!-- ซ้าย: Stats + Streak -->
   <div style="display: flex; flex-direction: column; gap: 10px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slowhandc1ap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=slowhandc1ap&theme=tokyonight"/>
+
   </div>
 
   <!-- ขวา: Pie Chart -->
