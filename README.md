@@ -42,7 +42,7 @@
 
   <!-- ขวา: Pie Chart -->
   <div>
-    <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowhandc1ap&layout=pie&hide=Jupyter%20Notebook&theme=tokyonight" />
+    <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowhandc1ap&layout=pie&&theme=tokyonight" />
   </div>
 
 </div>
